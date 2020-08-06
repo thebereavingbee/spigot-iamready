@@ -1,0 +1,7 @@
+main: me.thebereavingbee.iamready.Main
+name: iamready
+version: 1.0
+author: TheBereavingBee
+commands:
+ iamready:
+
